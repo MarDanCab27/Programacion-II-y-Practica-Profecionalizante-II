@@ -1,0 +1,5 @@
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\actividad 2 programacion 2\actividad 2 programacion 2\bin\Debug\actividad 2 programacion 2.exe.config
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\actividad 2 programacion 2\actividad 2 programacion 2\bin\Debug\actividad 2 programacion 2.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\actividad 2 programacion 2\actividad 2 programacion 2\bin\Debug\actividad 2 programacion 2.pdb
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\actividad 2 programacion 2\actividad 2 programacion 2\obj\Debug\actividad 2 programacion 2.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\actividad 2 programacion 2\actividad 2 programacion 2\obj\Debug\actividad 2 programacion 2.pdb

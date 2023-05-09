@@ -1,0 +1,6 @@
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\bin\Debug\vector.exe.config
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\obj\Debug\vector.csprojResolveAssemblyReference.cache
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\bin\Debug\vector.exe
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\bin\Debug\vector.pdb
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\obj\Debug\vector.exe
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\obj\Debug\vector.pdb

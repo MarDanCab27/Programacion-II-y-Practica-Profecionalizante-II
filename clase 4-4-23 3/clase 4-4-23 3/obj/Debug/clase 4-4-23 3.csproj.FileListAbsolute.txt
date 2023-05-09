@@ -1,0 +1,6 @@
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 3\clase 4-4-23 3\bin\Debug\clase 4-4-23 3.exe.config
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 3\clase 4-4-23 3\obj\Debug\clase 4-4-23 3.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 3\clase 4-4-23 3\bin\Debug\clase 4-4-23 3.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 3\clase 4-4-23 3\bin\Debug\clase 4-4-23 3.pdb
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 3\clase 4-4-23 3\obj\Debug\clase 4-4-23 3.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 3\clase 4-4-23 3\obj\Debug\clase 4-4-23 3.pdb

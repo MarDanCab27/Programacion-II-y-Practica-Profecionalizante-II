@@ -1,0 +1,6 @@
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo de ordenamiento\Metodo de ordenamiento\bin\Debug\Metodo de ordenamiento.exe.config
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo de ordenamiento\Metodo de ordenamiento\bin\Debug\Metodo de ordenamiento.exe
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo de ordenamiento\Metodo de ordenamiento\bin\Debug\Metodo de ordenamiento.pdb
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo de ordenamiento\Metodo de ordenamiento\obj\Debug\Metodo de ordenamiento.csprojResolveAssemblyReference.cache
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo de ordenamiento\Metodo de ordenamiento\obj\Debug\Metodo de ordenamiento.exe
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo de ordenamiento\Metodo de ordenamiento\obj\Debug\Metodo de ordenamiento.pdb

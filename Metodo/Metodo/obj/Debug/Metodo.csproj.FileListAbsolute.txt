@@ -1,0 +1,5 @@
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo\Metodo\bin\Debug\Metodo.exe.config
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo\Metodo\bin\Debug\Metodo.exe
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo\Metodo\bin\Debug\Metodo.pdb
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo\Metodo\obj\Debug\Metodo.exe
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo\Metodo\obj\Debug\Metodo.pdb

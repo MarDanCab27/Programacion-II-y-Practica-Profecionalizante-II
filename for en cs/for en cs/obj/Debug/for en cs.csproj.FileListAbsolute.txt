@@ -1,0 +1,6 @@
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\for en cs\for en cs\bin\Debug\for en cs.exe.config
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\for en cs\for en cs\obj\Debug\for en cs.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\for en cs\for en cs\bin\Debug\for en cs.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\for en cs\for en cs\bin\Debug\for en cs.pdb
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\for en cs\for en cs\obj\Debug\for en cs.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\for en cs\for en cs\obj\Debug\for en cs.pdb

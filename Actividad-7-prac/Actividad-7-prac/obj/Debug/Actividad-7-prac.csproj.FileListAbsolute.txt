@@ -1,0 +1,6 @@
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Actividad-7-prac\Actividad-7-prac\bin\Debug\Actividad-7-prac.exe.config
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Actividad-7-prac\Actividad-7-prac\bin\Debug\Actividad-7-prac.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Actividad-7-prac\Actividad-7-prac\bin\Debug\Actividad-7-prac.pdb
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Actividad-7-prac\Actividad-7-prac\obj\Debug\Actividad-7-prac.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Actividad-7-prac\Actividad-7-prac\obj\Debug\Actividad-7-prac.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Actividad-7-prac\Actividad-7-prac\obj\Debug\Actividad-7-prac.pdb

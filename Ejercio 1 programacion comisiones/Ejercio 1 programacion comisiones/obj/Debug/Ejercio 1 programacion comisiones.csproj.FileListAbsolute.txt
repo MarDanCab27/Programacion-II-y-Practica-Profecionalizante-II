@@ -1,0 +1,6 @@
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Ejercio 1 programacion comisiones\Ejercio 1 programacion comisiones\bin\Debug\Ejercio 1 programacion comisiones.exe.config
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Ejercio 1 programacion comisiones\Ejercio 1 programacion comisiones\obj\Debug\Ejercio 1 programacion comisiones.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Ejercio 1 programacion comisiones\Ejercio 1 programacion comisiones\bin\Debug\Ejercio 1 programacion comisiones.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Ejercio 1 programacion comisiones\Ejercio 1 programacion comisiones\bin\Debug\Ejercio 1 programacion comisiones.pdb
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Ejercio 1 programacion comisiones\Ejercio 1 programacion comisiones\obj\Debug\Ejercio 1 programacion comisiones.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\Ejercio 1 programacion comisiones\Ejercio 1 programacion comisiones\obj\Debug\Ejercio 1 programacion comisiones.pdb

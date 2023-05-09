@@ -1,0 +1,5 @@
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\metodos\metodos\bin\Debug\metodos.exe.config
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\metodos\metodos\bin\Debug\metodos.exe
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\metodos\metodos\bin\Debug\metodos.pdb
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\metodos\metodos\obj\Debug\metodos.exe
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\metodos\metodos\obj\Debug\metodos.pdb

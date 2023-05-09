@@ -1,0 +1,6 @@
+c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\clase 20-04-2023\clase 20-04-2023\bin\Debug\clase 20-04-2023.exe.config
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 20-04-2023\clase 20-04-2023\bin\Debug\clase 20-04-2023.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 20-04-2023\clase 20-04-2023\bin\Debug\clase 20-04-2023.pdb
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 20-04-2023\clase 20-04-2023\obj\Debug\clase 20-04-2023.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 20-04-2023\clase 20-04-2023\obj\Debug\clase 20-04-2023.exe
+C:\Users\Marcelo Cabrera\Desktop\Progrmacion II\proyectos\clase 20-04-2023\clase 20-04-2023\obj\Debug\clase 20-04-2023.pdb
