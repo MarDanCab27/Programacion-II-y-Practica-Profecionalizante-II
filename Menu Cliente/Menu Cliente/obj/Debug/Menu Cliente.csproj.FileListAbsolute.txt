@@ -1,0 +1,6 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Menu Cliente\Menu Cliente\bin\Debug\Menu Cliente.exe.config
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Menu Cliente\Menu Cliente\bin\Debug\Menu Cliente.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Menu Cliente\Menu Cliente\bin\Debug\Menu Cliente.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Menu Cliente\Menu Cliente\obj\Debug\Menu Cliente.csprojResolveAssemblyReference.cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Menu Cliente\Menu Cliente\obj\Debug\Menu Cliente.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Menu Cliente\Menu Cliente\obj\Debug\Menu Cliente.pdb

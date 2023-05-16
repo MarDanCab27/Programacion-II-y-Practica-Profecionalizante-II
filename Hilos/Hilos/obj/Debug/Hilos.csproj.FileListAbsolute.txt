@@ -1,0 +1,6 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Hilos\Hilos\bin\Debug\Hilos.exe.config
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Hilos\Hilos\bin\Debug\Hilos.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Hilos\Hilos\bin\Debug\Hilos.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Hilos\Hilos\obj\Debug\Hilos.csprojResolveAssemblyReference.cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Hilos\Hilos\obj\Debug\Hilos.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Hilos\Hilos\obj\Debug\Hilos.pdb

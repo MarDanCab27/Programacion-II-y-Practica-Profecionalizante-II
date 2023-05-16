@@ -3,3 +3,6 @@ c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\metodos\metodos\bin\De
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\metodos\metodos\bin\Debug\metodos.pdb
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\metodos\metodos\obj\Debug\metodos.exe
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\metodos\metodos\obj\Debug\metodos.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\metodos\metodos\bin\Debug\metodos.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\metodos\metodos\obj\Debug\metodos.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\metodos\metodos\obj\Debug\metodos.pdb

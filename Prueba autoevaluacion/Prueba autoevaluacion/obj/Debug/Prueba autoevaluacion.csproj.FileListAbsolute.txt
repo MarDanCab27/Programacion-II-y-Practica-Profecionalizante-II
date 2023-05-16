@@ -1,0 +1,5 @@
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Prueba autoevaluacion\Prueba autoevaluacion\bin\Debug\Prueba autoevaluacion.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Prueba autoevaluacion\Prueba autoevaluacion\bin\Debug\Prueba autoevaluacion.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Prueba autoevaluacion\Prueba autoevaluacion\bin\Debug\Prueba autoevaluacion.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Prueba autoevaluacion\Prueba autoevaluacion\obj\Debug\Prueba autoevaluacion.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Prueba autoevaluacion\Prueba autoevaluacion\obj\Debug\Prueba autoevaluacion.pdb

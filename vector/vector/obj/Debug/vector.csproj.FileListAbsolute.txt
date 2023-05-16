@@ -4,3 +4,6 @@ c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\bin\Debu
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\bin\Debug\vector.pdb
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\obj\Debug\vector.exe
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\vector\vector\obj\Debug\vector.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\vector\vector\bin\Debug\vector.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\vector\vector\obj\Debug\vector.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\vector\vector\obj\Debug\vector.pdb

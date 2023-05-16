@@ -1,1 +1,7 @@
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Actividad8-Prac\Actividad8-Prac\bin\Debug\Actividad8-Prac.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad8-Prac\Actividad8-Prac\bin\Debug\Actividad8-Prac.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad8-Prac\Actividad8-Prac\obj\Debug\Actividad8-Prac.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad8-Prac\Actividad8-Prac\bin\Debug\Actividad8-Prac.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad8-Prac\Actividad8-Prac\bin\Debug\Actividad8-Prac.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad8-Prac\Actividad8-Prac\obj\Debug\Actividad8-Prac.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad8-Prac\Actividad8-Prac\obj\Debug\Actividad8-Prac.pdb

@@ -4,3 +4,6 @@ c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Actividad 4\Actividad 
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Actividad 4\Actividad 4\bin\Debug\Actividad 4.pdb
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Actividad 4\Actividad 4\obj\Debug\Actividad 4.exe
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Actividad 4\Actividad 4\obj\Debug\Actividad 4.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad 4\Actividad 4\bin\Debug\Actividad 4.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad 4\Actividad 4\obj\Debug\Actividad 4.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad 4\Actividad 4\obj\Debug\Actividad 4.pdb

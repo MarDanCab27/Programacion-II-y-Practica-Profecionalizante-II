@@ -4,3 +4,6 @@ c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\descuentos\descuentos\
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\descuentos\descuentos\obj\Debug\descuentos.csprojResolveAssemblyReference.cache
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\descuentos\descuentos\obj\Debug\descuentos.exe
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\descuentos\descuentos\obj\Debug\descuentos.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\descuentos\descuentos\bin\Debug\descuentos.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\descuentos\descuentos\obj\Debug\descuentos.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\descuentos\descuentos\obj\Debug\descuentos.pdb
