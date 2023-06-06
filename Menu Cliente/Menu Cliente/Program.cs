@@ -56,7 +56,7 @@ namespace Menu_Cliente
                 int opcion;
                 Menu();
                 Console.WriteLine("Ingrese una opcion:");
-                opcion = int.Parse(Console.ReadLine())
+                opcion = int.Parse(Console.ReadLine());
                 switch (opcion){
                     case 1:
                         recargar(ventas,ingreso);
