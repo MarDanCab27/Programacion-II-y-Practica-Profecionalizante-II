@@ -17,8 +17,18 @@ namespace ConsoleApplication1
             public int cod;
 
         }
+        public struct producto{
+            public int descripcion;
+            public int minimp;
+            public double preciog;
+            public double preciofinal;
+            private const double preciokwh = 0;
+            public const int ganancia = 2;
+            public double precio_final ;
+        }
         static void Main(string[] args)
         {
+
 
 
 
