@@ -3,3 +3,9 @@ c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo\Metodo\bin\Debu
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo\Metodo\bin\Debug\Metodo.pdb
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo\Metodo\obj\Debug\Metodo.exe
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Metodo\Metodo\obj\Debug\Metodo.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Metodo\Metodo\bin\Debug\Metodo.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Metodo\Metodo\obj\Debug\Metodo.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Metodo\Metodo\obj\Debug\Metodo.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Metodo\Metodo\bin\Debug\Metodo.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Metodo\Metodo\bin\Debug\Metodo.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Metodo\Metodo\obj\Debug\Metodo.csprojResolveAssemblyReference.cache

@@ -16,7 +16,7 @@ namespace Prueba_autoevaluacion
             Console.Write("{0}", m[3]);
             //---------------final pregunta----------
 
-            char[] cad = new char [3];
+//            char[] cad = new char [3];
 
             Console.Read();
         }
