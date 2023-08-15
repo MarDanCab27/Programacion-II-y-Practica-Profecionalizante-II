@@ -1,1 +1,2 @@
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\Actividad8Prac\Actividad8Prac\bin\Debug\Actividad8Prac.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad8Prac\Actividad8Prac\bin\Debug\Actividad8Prac.exe.config

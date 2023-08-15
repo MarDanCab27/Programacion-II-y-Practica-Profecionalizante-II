@@ -1,0 +1,9 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\1er proy interfaz grafica\1er proy interfaz grafica\bin\Debug\1er proy interfaz grafica.exe.config
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\1er proy interfaz grafica\1er proy interfaz grafica\bin\Debug\1er proy interfaz grafica.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\1er proy interfaz grafica\1er proy interfaz grafica\bin\Debug\1er proy interfaz grafica.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\1er proy interfaz grafica\1er proy interfaz grafica\obj\Debug\1er proy interfaz grafica.csprojResolveAssemblyReference.cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\1er proy interfaz grafica\1er proy interfaz grafica\obj\Debug\_1er_proy_interfaz_grafica.Form1.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\1er proy interfaz grafica\1er proy interfaz grafica\obj\Debug\_1er_proy_interfaz_grafica.Properties.Resources.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\1er proy interfaz grafica\1er proy interfaz grafica\obj\Debug\1er proy interfaz grafica.csproj.GenerateResource.Cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\1er proy interfaz grafica\1er proy interfaz grafica\obj\Debug\1er proy interfaz grafica.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\1er proy interfaz grafica\1er proy interfaz grafica\obj\Debug\1er proy interfaz grafica.pdb
