@@ -1,0 +1,8 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Formulario toqueteado\Formulario toqueteado\bin\Debug\Formulario toqueteado.exe.config
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Formulario toqueteado\Formulario toqueteado\bin\Debug\Formulario toqueteado.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Formulario toqueteado\Formulario toqueteado\bin\Debug\Formulario toqueteado.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Formulario toqueteado\Formulario toqueteado\obj\Debug\Formulario_toqueteado.Form1.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Formulario toqueteado\Formulario toqueteado\obj\Debug\Formulario_toqueteado.Properties.Resources.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Formulario toqueteado\Formulario toqueteado\obj\Debug\Formulario toqueteado.csproj.GenerateResource.Cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Formulario toqueteado\Formulario toqueteado\obj\Debug\Formulario toqueteado.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Formulario toqueteado\Formulario toqueteado\obj\Debug\Formulario toqueteado.pdb
