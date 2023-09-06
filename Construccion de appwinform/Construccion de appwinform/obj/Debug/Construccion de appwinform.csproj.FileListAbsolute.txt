@@ -1,0 +1,10 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\bin\Debug\Construccion de appwinform.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\bin\Debug\Construccion de appwinform.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\bin\Debug\Construccion de appwinform.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\obj\Debug\Construccion de appwinform.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\obj\Debug\Construccion_de_appwinform.Form1.resources
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\obj\Debug\Construccion_de_appwinform.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\obj\Debug\Construccion de appwinform.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\obj\Debug\Construccion de appwinform.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\obj\Debug\Construccion de appwinform.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Construccion de appwinform\Construccion de appwinform\obj\Debug\Construccion_de_appwinform.Form2.resources

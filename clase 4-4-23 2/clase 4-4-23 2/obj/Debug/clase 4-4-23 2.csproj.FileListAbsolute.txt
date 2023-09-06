@@ -3,3 +3,6 @@ c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 2\clase 4
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 2\clase 4-4-23 2\bin\Debug\clase 4-4-23 2.pdb
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 2\clase 4-4-23 2\obj\Debug\clase 4-4-23 2.exe
 c:\users\marcelo cabrera\Desktop\Progrmacion II\proyectos\clase 4-4-23 2\clase 4-4-23 2\obj\Debug\clase 4-4-23 2.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\clase 4-4-23 2\clase 4-4-23 2\bin\Debug\clase 4-4-23 2.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\clase 4-4-23 2\clase 4-4-23 2\obj\Debug\clase 4-4-23 2.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\clase 4-4-23 2\clase 4-4-23 2\obj\Debug\clase 4-4-23 2.pdb

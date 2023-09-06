@@ -1,0 +1,9 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Contabilidad\Contabilidad\bin\Debug\Contabilidad.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Contabilidad\Contabilidad\obj\Debug\Contabilidad.Form1.resources
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Contabilidad\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Contabilidad\Contabilidad\obj\Debug\Contabilidad.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Contabilidad\Contabilidad\obj\Debug\Contabilidad.pdb

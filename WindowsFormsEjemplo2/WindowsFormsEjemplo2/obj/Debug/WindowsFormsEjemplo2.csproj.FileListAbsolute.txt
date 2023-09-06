@@ -1,0 +1,10 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\bin\Debug\WindowsFormsEjemplo2.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\obj\Debug\WindowsFormsEjemplo2.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\obj\Debug\WindowsFormsEjemplo2.Form1.resources
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\obj\Debug\WindowsFormsEjemplo2.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\obj\Debug\WindowsFormsEjemplo2.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\bin\Debug\WindowsFormsEjemplo2.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\bin\Debug\WindowsFormsEjemplo2.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\obj\Debug\WindowsFormsEjemplo2.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\obj\Debug\WindowsFormsEjemplo2.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\WindowsFormsEjemplo2\WindowsFormsEjemplo2\obj\Debug\WindowsFormsEjemplo2.PaginaBienvenido.resources

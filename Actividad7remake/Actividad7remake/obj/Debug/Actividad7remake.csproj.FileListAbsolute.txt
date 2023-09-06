@@ -1,0 +1,9 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad7remake\Actividad7remake\bin\Debug\Actividad7remake.exe.config
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad7remake\Actividad7remake\bin\Debug\Actividad7remake.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad7remake\Actividad7remake\bin\Debug\Actividad7remake.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad7remake\Actividad7remake\obj\Debug\Actividad7remake.csprojResolveAssemblyReference.cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad7remake\Actividad7remake\obj\Debug\Actividad7remake.Form1.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad7remake\Actividad7remake\obj\Debug\Actividad7remake.Properties.Resources.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad7remake\Actividad7remake\obj\Debug\Actividad7remake.csproj.GenerateResource.Cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad7remake\Actividad7remake\obj\Debug\Actividad7remake.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Actividad7remake\Actividad7remake\obj\Debug\Actividad7remake.pdb

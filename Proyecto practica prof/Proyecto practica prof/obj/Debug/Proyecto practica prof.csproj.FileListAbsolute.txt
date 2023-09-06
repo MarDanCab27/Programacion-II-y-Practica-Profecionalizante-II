@@ -1,0 +1,6 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Proyecto practica prof\Proyecto practica prof\bin\Debug\Proyecto practica prof.exe.config
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Proyecto practica prof\Proyecto practica prof\bin\Debug\Proyecto practica prof.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Proyecto practica prof\Proyecto practica prof\bin\Debug\Proyecto practica prof.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Proyecto practica prof\Proyecto practica prof\obj\Debug\Proyecto practica prof.csprojResolveAssemblyReference.cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Proyecto practica prof\Proyecto practica prof\obj\Debug\Proyecto practica prof.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Proyecto practica prof\Proyecto practica prof\obj\Debug\Proyecto practica prof.pdb

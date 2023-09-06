@@ -1,0 +1,9 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Matriz interfaz grafica\Matriz interfaz grafica\bin\Debug\Matriz interfaz grafica.exe.config
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Matriz interfaz grafica\Matriz interfaz grafica\bin\Debug\Matriz interfaz grafica.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Matriz interfaz grafica\Matriz interfaz grafica\bin\Debug\Matriz interfaz grafica.pdb
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Matriz interfaz grafica\Matriz interfaz grafica\obj\Debug\Matriz interfaz grafica.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Matriz interfaz grafica\Matriz interfaz grafica\obj\Debug\Matriz_interfaz_grafica.Formulario.resources
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Matriz interfaz grafica\Matriz interfaz grafica\obj\Debug\Matriz_interfaz_grafica.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Matriz interfaz grafica\Matriz interfaz grafica\obj\Debug\Matriz interfaz grafica.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Matriz interfaz grafica\Matriz interfaz grafica\obj\Debug\Matriz interfaz grafica.exe
+C:\Users\Marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Matriz interfaz grafica\Matriz interfaz grafica\obj\Debug\Matriz interfaz grafica.pdb
