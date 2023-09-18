@@ -46,8 +46,18 @@ namespace Actividad7remake
         private void btGuardar_Click(object sender, EventArgs e)
         {
 
-            for (int i = 0; i < mat.GetLength(0); i++) { 
-                if(cbSituacionImp == ")            
+            for (int i = 0; i < mat.GetLength(0); i++) {
+                if (cbSituacionImp.SelectedIndex == 0)
+                {
+
+                    if (txtNombre.Text == "") {
+
+                        txtNombre.BackColor = Color.Bisque;
+
+                    }else
+                        if ()
+
+                }
             }
 
         }

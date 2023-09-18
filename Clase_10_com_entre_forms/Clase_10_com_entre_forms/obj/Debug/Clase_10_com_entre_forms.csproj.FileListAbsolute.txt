@@ -1,0 +1,10 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\bin\Debug\Clase_10_com_entre_forms.exe.config
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\obj\Debug\Clase_10_com_entre_forms.Form1.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\obj\Debug\Clase_10_com_entre_forms.Form2.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\obj\Debug\Clase_10_com_entre_forms.Properties.Resources.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\obj\Debug\Clase_10_com_entre_forms.csproj.GenerateResource.Cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\bin\Debug\Clase_10_com_entre_forms.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\bin\Debug\Clase_10_com_entre_forms.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\obj\Debug\Clase_10_com_entre_forms.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\obj\Debug\Clase_10_com_entre_forms.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Clase_10_com_entre_forms\Clase_10_com_entre_forms\obj\Debug\Clase_10_com_entre_forms.csprojResolveAssemblyReference.cache

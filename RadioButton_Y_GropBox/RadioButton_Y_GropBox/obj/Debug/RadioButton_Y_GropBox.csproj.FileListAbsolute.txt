@@ -1,0 +1,9 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\RadioButton_Y_GropBox\RadioButton_Y_GropBox\bin\Debug\RadioButton_Y_GropBox.exe.config
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\RadioButton_Y_GropBox\RadioButton_Y_GropBox\bin\Debug\RadioButton_Y_GropBox.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\RadioButton_Y_GropBox\RadioButton_Y_GropBox\bin\Debug\RadioButton_Y_GropBox.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\RadioButton_Y_GropBox\RadioButton_Y_GropBox\obj\Debug\RadioButton_Y_GropBox.csprojResolveAssemblyReference.cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\RadioButton_Y_GropBox\RadioButton_Y_GropBox\obj\Debug\RadioButton_Y_GropBox.Form1.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\RadioButton_Y_GropBox\RadioButton_Y_GropBox\obj\Debug\RadioButton_Y_GropBox.Properties.Resources.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\RadioButton_Y_GropBox\RadioButton_Y_GropBox\obj\Debug\RadioButton_Y_GropBox.csproj.GenerateResource.Cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\RadioButton_Y_GropBox\RadioButton_Y_GropBox\obj\Debug\RadioButton_Y_GropBox.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\RadioButton_Y_GropBox\RadioButton_Y_GropBox\obj\Debug\RadioButton_Y_GropBox.pdb

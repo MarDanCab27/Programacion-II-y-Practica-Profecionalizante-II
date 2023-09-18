@@ -1,0 +1,10 @@
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\bin\Debug\Capitulo_9_Varios_Forms.exe.config
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\bin\Debug\Capitulo_9_Varios_Forms.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\bin\Debug\Capitulo_9_Varios_Forms.pdb
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\obj\Debug\Capitulo_9_Varios_Forms.csprojResolveAssemblyReference.cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\obj\Debug\Capitulo_9_Varios_Forms.Form1.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\obj\Debug\Capitulo_9_Varios_Forms.Form2.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\obj\Debug\Capitulo_9_Varios_Forms.Properties.Resources.resources
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\obj\Debug\Capitulo_9_Varios_Forms.csproj.GenerateResource.Cache
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\obj\Debug\Capitulo_9_Varios_Forms.exe
+c:\users\marcelo\Desktop\Progrmacion II\proyectos\Programacion-II-y-Practica-Profecionalizante-II\Capitulo_9_Varios_Forms\Capitulo_9_Varios_Forms\obj\Debug\Capitulo_9_Varios_Forms.pdb
